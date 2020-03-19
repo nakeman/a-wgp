@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"name",
+				"nakeman"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"l2",
+				"l2"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"m",
+				"materialize"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ro",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"person",
+				"personality"
+			],
+			[
+				"in",
+				"inherit\tcolor"
+			],
+			[
+				"herf",
+				"href\tAttr"
+			],
+			[
+				"so",
+				"socrates"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"font-f",
+				"font-family\tproperty"
+			],
+			[
+				"sl",
+				"slideUp"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 408.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"View In Browser",
+				"View In Browser"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 468.0
+	},
+	"console":
+	{
+		"height": 258.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/keminlau/react/a-wgp"
+	],
+	"file_history":
+	[
+		"/var/www/html/sugeladi/css/style.css",
+		"/var/www/html/sugeladi/signup.html",
+		"/var/www/html/sugeladi/personality/personality.html",
+		"/var/www/html/sugeladi/usr/private.html",
+		"/var/www/html/sugeladi/css/estyle.css",
+		"/var/www/html/sugeladi/resume.html",
+		"/var/www/html/sugeladi/main.html",
+		"/var/www/html/sugeladi/usr/personality.html",
+		"/var/www/html/sugeladi2018/usr/profile.html",
+		"/var/www/html/sugeladi2018/about/socrates.html",
+		"/var/www/html/sugeladi2018/forgot.html",
+		"/var/www/html/sugeladi2018/personality/assessment.html",
+		"/var/www/html/sugeladi2018/personality/mbti.html",
+		"/var/www/html/sugeladi2018/personality/personality.html",
+		"/var/www/html/sugeladi2018/css/estyle.css",
+		"/var/www/html/sugeladi2018/css/webfont/SourceHanSansCN-ExtraLight/preview.html",
+		"/var/www/html/sugeladi2018/about/sugeladi.html",
+		"/var/www/html/sugeladi2018/css/webfont/SourceHanSansCN-Normal/preview.html",
+		"/var/www/html/sugeladi2018/about/utopia.html",
+		"/var/www/html/sugeladi2018/main.html",
+		"/var/www/html/sugeladi2018/PTModel/jobs.html",
+		"/var/www/html/sugeladi2018/usr/friends.html",
+		"/var/www/html/sugeladi2018/usr/msg.html",
+		"/var/www/html/sugeladi2018/PTModel/utopia.html",
+		"/var/www/html/sugeladi2018/PTModel/loves.html",
+		"/var/www/html/sugeladi2018/login.html",
+		"/var/www/html/sugeladi2018/signup.html",
+		"/var/www/html/sugeladi2018/index.html",
+		"/var/www/html/sugeladi2018/preview.html",
+		"/var/www/html/sugeladi2018/index2.html",
+		"/var/www/html/sugeladi2018/js/functions.js",
+		"/var/www/html/sugeladi2018/css/style.css",
+		"/var/www/html/sugeladi2018/exercise/Social_Login_Form.html",
+		"/var/www/html/sugeladi2018/js/init.js",
+		"/var/www/html/sugeladi2018/js/jquery.smoothState.min.js",
+		"/var/www/html/sugeladi2018/css/materialize.css",
+		"/var/www/html/sugeladi2018/js/swiper.min.js",
+		"/var/www/html/sugeladi2018/css/materialize.0.9.css",
+		"/var/www/html/sugeladi2018/css/materialize.min.0.9.css",
+		"/var/www/html/sugeladi2018/template01.html",
+		"/var/www/html/sugeladi2018/css/materialize.min.css",
+		"/home/kemin/webproj/sugeladi2018/css/webfont/SourceHanSansCN-ExtraLight/styles.css",
+		"/home/kemin/webproj/sugeladi2018/index.html",
+		"/home/kemin/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/kemin/webproj/eclipse_webapp/js/materialize.min.js",
+		"/home/kemin/kolor3/scripts/custom1.js",
+		"/home/kemin/shuttle/index.html",
+		"/home/kemin/shuttle/js/untitled.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.113207547,
+		"where_history":
+		[
+			"/var/www/html/sugeladi2018"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ol",
+			"SiYuan-ExtraLig184a7ada471ef83",
+			"SourceHanSansCN-ExtraLight-Alphabetic",
+			"https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwIYqWqZPBQ.ttf",
+			"Source-Han-SourceHanSansCN-ExtraLight-Alphabetic",
+			"SiYuan-ExtraLig16dc9b169e1ef83",
+			"SiYuan-ExtraLig16dbe98a061ef83",
+			"Source-Han-Ligh16dbcb9fde1ef83",
+			"SourceHanSansCN-ExtraLight-Alphabetic",
+			"    urceHanSansCN-Normal",
+			"ionicons",
+			"is-exiting",
+			"mod",
+			"m-10",
+			"avatar",
+			"select",
+			"swiper",
+			".feature",
+			".m10",
+			"font-family",
+			"\\.header",
+			"header",
+			"swiper-container ",
+			"swipebox",
+			"sideNav",
+			"swiper",
+			"#main",
+			"sidenav",
+			"collapsible",
+			"waves-effect",
+			"validate",
+			"center-align",
+			"valign",
+			"valign-wrapper",
+			"absolute",
+			"valign",
+			".input-field",
+			".input-field > label",
+			":not(.browser-default)",
+			"input[type=text]",
+			".browser-default",
+			"rounded"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"li",
+			"SiYuan-ExtraLig185a53e7431ef83",
+			"SiYuan-ExtraLig184a7ada471ef83",
+			"SourceHanSansCN-ExtraLight-Alphabetic",
+			"Source-Han-SourceHanSansCN-ExtraLight-Alphabetic",
+			"SiYuan-ExtraLig16dc9b169e1ef83",
+			"SiYuan-ExtraLig16dbe98a061ef83",
+			"Source-Han-Ligh16dbcb9fde1ef83",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.8490566038
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a-wgp.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 530.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/webproj/materialize/starter-template/materialize-template.sublime-project"
+			]
+		],
+		"width": 403.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
