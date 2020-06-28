@@ -15,12 +15,13 @@ var Router = {
 	},
 
 	routing : function (){
-		if(document.location.hash == "#hello"){
-			let v = new HELLOSPA.HelloView();
-			v.render();
+		if(document.location.hash == "#hello" || document.location.hash == ""){
+			var v = new HELLOSPA.HelloView();
+			//v.render();
+			//sleep(1000);
+			//v.bind();
 		}else {
-			let v = new HELLOSPA.GoodbyeView();
-			v.render();			
+			var v = new HELLOSPA.GoodbyeView();	
 		}
 	}
 };

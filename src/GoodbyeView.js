@@ -9,9 +9,11 @@ var HELLOSPA = HELLOSPA || {};
 		this.templatefile = 'GoodbyeView.ejs';
 		this.template = "";
 
+		this._render();
+
 	}
 
-	GoodbyeView.prototype.render = function(){
+	GoodbyeView.prototype._render = function(){
 		that = this;
 
 		asynPromise = fetch(this.templatefile);
@@ -22,11 +24,19 @@ var HELLOSPA = HELLOSPA || {};
 				html = ejs.render(text, {});
 				that.el.innerHTML = html;
 
+				document.querySelector("#greeting").innerHTML = "Welcome "+ HELLOSPA.datastore.GuestName +"!!";
+
+				that._bind();
+
 			})
 			.catch( error => console.error('error:', error) );
 		});
 
 
+
+	}
+
+	GoodbyeView.prototype._bind = function(){
 
 	}
 
